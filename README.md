@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 27/11/24
+## Register Number:24901065
+## Name:DEEPAK JG
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -9,17 +9,44 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 ## Problem Creater's Organization
 Government of Gujarat
 
-## Idea
+## Idea:
+
+A Web app can be created for the alumnis and the graduates where the following things can take place:
+### Skill Exchange Programs:
+Alumnis can interact with the graduates emphasising the need for additional skills and trade their knowledge about those skills.
+### Rewards System:
+Alumnis can act as mentors training mentees and for each succesful hire,the alumnis receive a gratitude point.These gratitude points will be useful for their promotion.
+### AI based matchmaking:
+Alumnis can share their interests and an AI powered tool will list the candidates sharing the interests .Alumnis can choose their mentees from the list.
+### Alumni Crowdfunding:
+Alumni can crowdfund specific projects like infrastructure development,scholarships etc.
+### Alumni Yearbook:
+Alumni can share their achievements in the app, and the graduating batches can view these accomplishments as inspiration and benchmarks for their own career aspirations.
+### Collaboration:
+Alumnis can join hands with students and work on real life projects like e-waste management,alternate energy resource etc.
+
+## Proposed Solution / Architecture Diagram:
+
+![Screenshot 2024-11-27 193935](https://github.com/user-attachments/assets/433e1aa7-0b22-4cb0-af75-d65fb8d24ec7)
 
 
-## Proposed Solution / Architecture Diagram
+## Use Cases:
+
+![Screenshot 2024-11-27 200557](https://github.com/user-attachments/assets/0f4aefbb-96e7-4a70-8410-cd897147dfc0)
 
 
-## Use Cases
-
-
-## Technology Stack
-
+## Technology Stack:
+~~~
+Front end: React.js
+Back end: Node.js
+Database: MySQl
+AI Tool: Python,OpenAI APS
+Payment Gateway:Paypal SDKs
+Hosting Platform: AWS
+~~~
 
 ## Dependencies
-
+~~~
+Estimated Development time: 6-8 months
+Estimated Cost: $80,000
+~~~
